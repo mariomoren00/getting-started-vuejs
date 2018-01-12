@@ -1,2 +1,3 @@
-# getting-started-vuejs
-Getting Started with Vuejs
+# Started with vuejs
+
+Started with Vuejs
